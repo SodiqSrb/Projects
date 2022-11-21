@@ -30,14 +30,10 @@ The steps laid out above are iterative meaning that while we will go through the
 
 <p align="center">
 Models: <br/>
-<img src="https://user-images.githubusercontent.com/114579958/203100076-67a3422f-30a8-4d52-863d-815136ce14fc.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://user-images.githubusercontent.com/114579958/203057994-160ba6e5-c4fd-44a0-a553-f62ba5867f8a.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 
 <!--
  ```diff
