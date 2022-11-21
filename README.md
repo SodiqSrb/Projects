@@ -30,7 +30,7 @@ The steps laid out above are iterative meaning that while we will go through the
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![modek](https://user-images.githubusercontent.com/114579958/203057994-160ba6e5-c4fd-44a0-a553-f62ba5867f8a.jpg)"/>
 <br />
 <br />
 Select the disk:  <br/>
