@@ -1,5 +1,5 @@
 
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Model Prediction</h1>
 
  ### Costa Rican Household Poverty Level Prediction](https://youtu.be/7eJexJVCqJo)
 
@@ -19,7 +19,7 @@ The steps laid out above are iterative meaning that while we will go through the
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b> 
-- <b>|Anaconda</b>
+- <b>Anaconda</b>
 - <b>Jupyter Notebook</b>
 
 <h2>Environments Used </h2>
