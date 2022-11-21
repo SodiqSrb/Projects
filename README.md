@@ -1,5 +1,4 @@
-# Projects
-Detailed Explanation Of Some Projects
+
 <h1>JWipe - Disk Sanitization</h1>
 
  ### Costa Rican Household Poverty Level Prediction](https://youtu.be/7eJexJVCqJo)
@@ -19,8 +18,9 @@ Draw conclusions and lay out next steps
 The steps laid out above are iterative meaning that while we will go through them one at a time, we might go back to an earlier step and revisit some of our decisions. In general, data science is a non-linear pracice where we are constantly evaluating our past decisions and making improvements. In particular, feature engineering, modeling, and optimization are steps that we often repeat because we never know if we got them right the first time!
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Python</b> 
+- <b>|Anaconda</b>
+- <b>Jupyter Notebook</b>
 
 <h2>Environments Used </h2>
 
